@@ -1,0 +1,70 @@
+
+body{
+    background: rgb(192, 192, 192);
+}
+
+.header{
+    width: 100%;
+    background-color: white ;
+    height: 35px;
+    font-size: 20px;
+    padding-left: 400px;
+    padding-top: 5px;
+}
+
+.post{
+    background-color: rgb(192, 192, 192);
+    width: 850px;
+    height: 1200px;
+    margin: auto;
+
+}
+
+.primer-post{
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
+}   
+
+.titulo1{
+    font-size: 30px;
+    padding: 15px;
+
+}
+
+.fecha1{
+    font-size: 15px;
+    padding: 22px;
+    float: right;
+}
+
+
+#descripcion1{
+    font-size: 15px;
+    margin: 10px;
+
+}
+
+
+
+.segundo-post{
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tercer-post{
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+

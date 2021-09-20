@@ -1,6 +1,5 @@
-
 body{
-    background: rgb(192, 192, 192);
+    background: gray;
 }
 
 .header{
@@ -8,63 +7,137 @@ body{
     background-color: white ;
     height: 35px;
     font-size: 20px;
-    padding-left: 400px;
+    padding-left: 550px;
     padding-top: 5px;
+   
+    
 }
+
+
 
 .post{
-    background-color: rgb(192, 192, 192);
-    width: 850px;
-    height: 1200px;
+    background: white;
+    width: 500px;
+    height: 600px;
     margin: auto;
-
+    margin-top: 15px;
 }
 
-.primer-post{
-    background-color: white;
-    width: 600px;
-    height: 500px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+#header{
+    
+    width: 500px;
+    height: 40px;
    
-}   
+    padding-top: 15px;
+    display: flex;
+}
 
-.titulo1{
-    font-size: 30px;
-    padding: 15px;
+#icon {
+    background-color: white;
+    margin: 10px;
+    width: 25px;
+    height: 50px;
 
 }
 
-.fecha1{
-    font-size: 15px;
-    padding: 22px;
+.fa-html5{
+    font-size: 30px;
+}
+
+#titulo{
+    background: white;
+    width: 100px;
+    height: 50px;
+    
+    text-align: center;
+    float: top;
+
+}
+
+#icon-2{
+    background: white;
+    width: 350px;
+    height: 50px;
+    margin: 10px;
+}
+
+.fa-ellipsis-v{
+    font-size: 25px;
+    float: right;
+    margin-bottom: 5px;
+}
+
+.imagen{
+    
+    width: 500px;
+    height: 300px;
+    margin-top: 10px;
+
+}
+
+.iconos{
+    
+    width: 500px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.fa-heart{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.fa-comment{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+.fa-paper-plane{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+.fa-bookmark{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
     float: right;
 }
 
 
-#descripcion1{
-    font-size: 15px;
-    margin: 10px;
-
-}
 
 
 
-.segundo-post{
-    background-color: white;
-    width: 600px;
-    height: 500px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
-
-.tercer-post{
-    background-color: white;
-    width: 600px;
-    height: 500px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+.texto {
+    
+    width: 500px;
+    height: 150px;
+    margin: 0;
+   
     
 }
+
+#texto1 {
+    
+    width: 500px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#texto2{
+    
+    width: 500px;
+    height: 80px;
+    margin-top: 20px;
+    margin-right: 10px;
+    
+    
+}
+
+
 
 
